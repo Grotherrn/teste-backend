@@ -1,7 +1,7 @@
 # Desafio programação
 
 Por favor leiam este documento do começo ao fim, com muita atenção.
-O intuito deste teste é avaliar seus conhecimentos técnicos com o back-end, para ser mais específico em Ruby.
+O intuito deste teste é avaliar seus conhecimentos técnicos com o back-end.
 
 O teste consiste em parsear [este arquivo de texto (CNAB)](https://github.com/hudsonsza/teste-backend/blob/master/CNAB.txt) e salvar suas informações (transações financeiras) em uma base de dados a critério do candidato.
 
@@ -25,7 +25,7 @@ Sua tarefa é criar uma interface web que aceite upload do [arquivo CNAB](https:
 1. Ter uma tela (via um formulário) para fazer o upload do arquivo
 2. Interpretar ("parsear") o arquivo recebido, normalizar os dados, e salvar corretamente a informação em um banco de dados relacional, **se atente as documentações** que estão logo abaixo.
 3. Exibir uma lista das operações importadas por lojas, e nesta lista deve conter um totalizador do saldo em conta
-4. Ser escrita obrigatoriamente em Ruby 2.0+
+4. Ser escrita na linhagem de sua preferência.
 5. Ser simples de configurar e rodar, funcionando em ambiente compatível com Unix (Linux ou Mac OS X). Ela deve utilizar apenas linguagens e bibliotecas livres ou gratuitas.
 
 **Sua aplicação web NÃO precisa:**
