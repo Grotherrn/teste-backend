@@ -1,8 +1,7 @@
 <?php
 /**
- * @var Array $tiposTransacoes Relaciona estaticamente os identificadores de tipo de transação
+ * @var array $tiposTransacoes Relaciona estaticamente os identificadores de tipo de transação
  * a seus respectivos nome e multiplicador indicativo da natureza (entrada/ saída) da operação.
- *  
  */
     $tiposTransacoes = array(
         1 => array ("Débito", 1),
